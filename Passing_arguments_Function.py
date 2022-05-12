@@ -1,0 +1,1 @@
+# Write a Python function to check whether a number is perfect number or not, you must passing input as a argument? 
